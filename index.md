@@ -6,13 +6,9 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Profile
+Hello, my name is ResZ. i am passionate programmer that like so much programming. I spent most my time for programming all day. I capable for doing project in many language, but i used to use C/C++, C#, Python, Ruby. Project i have ever into it : Graphic Programming, Game Development, Web Application, Dekstop Application, Network Programming.
+I am working as freelancer for now. But i hope i can help you in your project, even i am not that good for work as team because i don't have good communication skill. Usually i worked myself.
 
 ## Header 2
 
