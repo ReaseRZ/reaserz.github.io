@@ -12,8 +12,9 @@ Project i have ever into it :
 - Web Application
 - Dekstop Application
 - Network Programming.
+
 I am working as freelancer for now. But i hope i can help you in your project, even i am not that good for work as team because i don't have good communication skill. Usually i worked myself.
-> The best way for learning something is **Trial And Error**, don't be afraid to make mistake till you know your own mistakes snd looking solution yourself or 
+> The best way for learning something is **Trial And Error**, don't be afraid to make mistake till you know your own mistakes and looking solution yourself or 
 > someone else give you advices
 * * *
 ## Header 2
